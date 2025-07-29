@@ -18,4 +18,5 @@ This repository showcases **Action Graphs** created using [NVIDIA Isaac Sim](htt
 
 ### 📷 Sensors
 
-#### ➤ Camera Component Graph
+#### ➤ RGB Camera 
+![image](docs/rgb-camera-ag.png)
