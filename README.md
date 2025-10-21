@@ -19,6 +19,9 @@ This repository showcases **Action Graphs** created using [NVIDIA Isaac Sim](htt
 #### ➤ 4 wheel Differential Drive
 ![image](docs/4-wheel-differential-drive-ag.png)
 
+#### ➤ 4 Ackermanns Drive(Car Drive)
+![image](docs/Ackermanns-drive-controller.png)
+
 #### ➤ Robotic Arm - Joint State Controller and Publisher
 ![image](docs/joitnstate-ag.png)
 
