@@ -21,7 +21,7 @@ This repository showcases **Action Graphs** created using [NVIDIA Isaac Sim](htt
 
 #### ➤ Ackermanns Drive(Car Drive)
 ![image](docs/Ackermanns-drive-controller.png)
-The corresponding USD file for the Ackermann’s Drive (Car Drive) action graph can be found at [`usd/ackermann.usd`](usd/Driver_Ackermann.usd).
+> The corresponding USD file for the Ackermann’s Drive (Car Drive) action graph can be found at [`usd/ackermann.usd`](usd/Driver_Ackermann.usd).
 
 #### ➤ Robotic Arm - Joint State Controller and Publisher
 ![image](docs/joitnstate-ag.png)
